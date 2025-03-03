@@ -7,7 +7,7 @@
 
 ## **Features**
 - **Single or Multiple Recipients**: Send messages to one person or multiple people at once.
-- **Moroccan Number Validation**: Ensures phone numbers are in the correct format (+212[67]XXXXXXXX).
+- **Moroccan Number Validation**: Ensures phone numbers are in the correct format.
 - **Custom Messages**: Send the same message to all recipients or unique messages to each.
 - **Progress Tracking**: Displays real-time progress and success/failure status for each message.
 - **User-Friendly Interface**: Colorful terminal output with ASCII banners and clear prompts.
